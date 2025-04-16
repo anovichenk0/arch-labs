@@ -1,2 +1,4 @@
-# arch-labs
-Архитектура вычислительных систем лабы 4 семестр
+# Архитектура вычислительных систем лабы 4 семестр
+
+
+## [Доска в миро](https://miro.com/welcomeonboard/dTV3Y00zRmRWSk9LQjlvSVBhbWkxVUZiRHZyQWt0clh6SW8yMmtPSWszVUpxSmNQVGFRcW8ybXlpU01OWWdwUElFQlR0TlJHUWYxUStzUHFyZHBHMWlvQzVObFJlTzI4RVc5cWUxWUp3MEFLL1dMeTJOMHltK09JaVZkMjl4ZUp0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=418789640592)
