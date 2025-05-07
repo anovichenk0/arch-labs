@@ -6,4 +6,5 @@
 
 ### Список готовых лаб
 
--   5 ([Отчет](https://docs.google.com/document/d/1Q9nnP9gZrr_ZGzlFNaMn42u8DncYSS0XYaWeBrN_7Fo/edit?usp=sharing))
+-   1 ([Отчет - Miro](https://miro.com/app/board/uXjVKctu180=/))
+-   5 ([Отчет - Google docs](https://docs.google.com/document/d/1Q9nnP9gZrr_ZGzlFNaMn42u8DncYSS0XYaWeBrN_7Fo/edit?usp=sharing))
